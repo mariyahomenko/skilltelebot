@@ -1,5 +1,3 @@
-You will find it at t.me/Skill_Progect2_TeleBot
-или @Skill_Progect2_TeleBot
 
 Бот возвращает цену на определённое количество валюты (евро, доллар или рубль).
 При написании бота была использована библиотека pytelegrambotapi.
